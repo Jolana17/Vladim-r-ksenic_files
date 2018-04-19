@@ -1,0 +1,36 @@
+url(&quot;https://d1di2lzuh97fh2.cloudfront.net/files/37/374/374gti.jpg?ph=8ba7e1768a&amp;t=1&quot;);">    Vtaky 700x466px jpg Header
+www.google-analytics.com/analytics.js
+https://d1di2lzuh97fh2.cloudfront.net/files/05/05t/450/05t0i7.jpg?ph=8ba7e1768a                      Klavesnica Nb 450x253px jpg
+https://d1di2lzuh97fh2.cloudfront.net/files/37/374/374gti.jpg?ph=8ba7e1768a&amp;t=1&quot
+https://d1di2lzuh97fh2.cloudfront.net/files/37/374/700/374gti.jpg?ph=8ba7e1768a
+@-webkit-viewport{width:device-width}@-moz-viewport{width:device-width}@-ms-viewport{width:device-width}@-o-viewport{width:device-width}@viewport{width:device-width}html{-ms-overflow-style:scrollbar;-moz-osx-font-smoothing:grayscale;font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
+https://d1di2lzuh97fh2.cloudfront.net/files/1u/1ud/1uds8d.svg?ph=8ba7e1768a&amp;border=7fbbe8&amp;outline=4da0df&amp;color=105389   Toto je ikonka domèek
+https://d1di2lzuh97fh2.cloudfront.net/files/2i/2ie/2iek3c.svg?ph=8ba7e1768a&amp;border=7fbbe8&amp;outline=4da0df&amp;color=105389   Toto je ikonka asi 66
+https://d1di2lzuh97fh2.cloudfront.net/files/26/26g/26gl1q.svg?ph=8ba7e1768a&amp;border=7fbbe8&amp;outline=4da0df&amp;color=105389    Toto je žiarovka
+
+
+ <div class="logo-text">
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d10652.643400755581!2d17.104090199999998!3d48.126421349999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ssk!2ssk!4v1522337911366" width="100%" height="320"
+frameborder="0" style="border:0" allowfullscreen></iframe>  je jeho
+https://www.google.com/maps/place/Belehradsk%C3%A1+2517%2F10,+040+13+Ko%C5%A1ice/@48.7564045,21.2714516,17z/data=!3m1!4b1!4m5!3m4!1s0x473ee0b867852b97:0x5e356f8fa3dc0b56!8m2!3d48.756401!4d21.2736403?hl=sk-SK width="100%" height="320"
+frameborder="0" style="border:0" allowfullscreen></iframe> Košice
+
+<link href="./Vladimir-ksenic_files/Css/0htfum.css"   
+                                              to je na zaèiatku CSS
+
+<div class="button block typo-05 button-02 wnd-align-center">
+	<div class="button-content">
+		<a href="file:///C:/sluzby/">
+			<span class="button-text">Kompletná ponuka služieb</span></a> 
+tuto je to taèitko na Kompletná ponuka služieb
+
+
+
+
+
+
+
+
+v hlavicke occhrana ya script
+<style id="__web-inspector-hide-shortcut-style__" type="text/css">
+.__web-inspector-hide-shortcut__, .__web-inspector-hide-shortcut__ *, .__web-inspector-hidebefore-shortcut__::before, .__web-inspector-hideafter-shortcut__::after

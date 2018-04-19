@@ -1,0 +1,29 @@
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+section {
+      
+}
+
+section div{
+    min-height: 100px;
+    max-width: 800px;
+    width: 100%;
+    background-color: palegoldenrod;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+header{
+    background-color: palevioletred;
+}
+
+nav{
+    background-color: paleturquoise;
+}
+
+footer{
+    background-color: palevioletred;
+}
